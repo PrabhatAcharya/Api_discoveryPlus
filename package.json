@@ -1,0 +1,24 @@
+{
+  "name": "api_discoveryplus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrabhatAcharya/Api_discoveryPlus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrabhatAcharya/Api_discoveryPlus/issues"
+  },
+  "homepage": "https://github.com/PrabhatAcharya/Api_discoveryPlus#readme",
+  "dependencies": {
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
+  }
+}
